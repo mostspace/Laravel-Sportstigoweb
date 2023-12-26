@@ -1,0 +1,111 @@
+Xd Screen :- (Total 33 Screen)
+{
+    A---------------------------------------------------------
+    {
+        1) Refferal Dashboard
+        2) Admin Dashboard :- [Setup]
+        {
+            View :- AdminDashboard.blade.php
+            URL :- http://localhost:8888/SportsTigo/public/dashboard
+        }
+        3) Vendor Dashboard
+    }
+    ---------------------------------------------------------
+
+    B---------------------------------------------------------
+    {
+        4) Login view 1 :- [Setup]
+        {
+            View :- LoginView.blade.php 
+            URL :- http://localhost:8888/SportsTigo/public/admin}
+        }
+        5) Booking Sales
+        6) Booking Sales
+        7) Booking Sales
+        8) Booking Sales
+    }
+    ---------------------------------------------------------
+
+    C---------------------------------------------------------
+    {
+        9) Admin Vendor Profile Approval	]
+        10) Booking Sales
+    }
+    ---------------------------------------------------------
+
+    D---------------------------------------------------------
+    {
+        11) Admin Profile :- [Setup]
+            {
+                View :- AdminProfileView.blade.php 
+                URL :- http://localhost:8888/SportsTigo/public/AdminProfile
+            }
+        12) Booking Sales
+        13) Booking Sales
+        14) Sale Report
+        15) Vendor Profile :- [Setup]
+            {
+                View :- AdminVendorProfile.blade.php 
+                URL :- http://localhost:8888/SportsTigo/public/vendor
+            }
+        16) Add Booking Slot
+
+        17) Staff Edit :- [Setup]
+            {
+                View :- AdminStaffAdd.blade.php 
+                URL :- http://localhost:8888/SportsTigo/public/users/create
+            }
+        18) Booking Checking Record 3
+        19) Bookign Checking Record
+        20) Bookign Checking Record
+        21) Banner :- [Setup]
+            {
+                View :- AdminBannerView.blade.php	
+                URL :- http://localhost:8888/SportsTigo/public/AdminBanner
+            }
+        22) Voucher Managment :- 
+            {
+                View :- VoucherList.blade.php 
+                URL :-http://localhost:8888/SportsTigo/public/voucher
+            }
+    }
+    ---------------------------------------------------------
+
+    E---------------------------------------------------------
+    {
+        23) Staff :- [Setup]
+            {
+                View :- AdminStaffAdd.blade.php 
+                URL :- http://localhost:8888/SportsTigo/public/users/create
+            }
+        24) Booking Checking Record
+        25) Booking Checking Record
+        26) Notice Board
+    }
+    ---------------------------------------------------------
+
+    F---------------------------------------------------------
+    {
+        27) Users :- [Setup]
+        {
+            View :- UserList.blade.php 
+            URL :- http://localhost:8888/SportsTigo/public/users
+        }
+        28) Category :- [Setup]
+        {
+            View :- CategoryList.blade.php ::: 
+            URL :- http://localhost:8888/SportsTigo/public/category
+        }
+        29) Booking Checking Record 2
+    }
+    ---------------------------------------------------------
+
+    G---------------------------------------------------------
+    {
+        30) Refferal User [Listing]
+        31) Buddy System [Listing]
+        32) Sales Report Vendor
+        33) Sales Report Vendor Screen
+    }    
+    ---------------------------------------------------------
+}
